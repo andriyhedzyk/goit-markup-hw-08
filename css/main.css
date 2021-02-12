@@ -368,8 +368,8 @@ textarea {
 .hero {
   max-width: 1600px;
   background-color: #c4c4c4;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("/images/hero-bgimage/optimisized-jpg/hero__mob.jpg");
-  background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("/images/hero-bgimage/optimisized-jpg/hero__mob.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("../../images/hero-bgimage/optimisized-jpg/hero__mob.jpg");
+  background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../../images/hero-bgimage/optimisized-jpg/hero__mob.jpg");
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 118px;
@@ -384,8 +384,8 @@ textarea {
   .hero {
     padding-top: 118px;
     padding-bottom: 118px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("/images/hero-bgimage/optimisized-jpg/hero__tablet.jpg");
-    background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("/images/hero-bgimage/optimisized-jpg/hero__tablet.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("../../images/hero-bgimage/optimisized-jpg/hero__tablet.jpg");
+    background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../../images/hero-bgimage/optimisized-jpg/hero__tablet.jpg");
   }
 }
 
@@ -393,8 +393,8 @@ textarea {
   .hero {
     padding-top: 200px;
     padding-bottom: 200px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("/images/hero-bgimage/optimisized-jpg/hero__desktop.jpg");
-    background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("/images/hero-bgimage/optimisized-jpg/hero__desktop.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 48, 58, 0.4)), to(rgba(47, 48, 58, 0.4))), url("../../images/hero-bgimage/optimisized-jpg/hero__desktop.jpg");
+    background-image: linear-gradient(to bottom, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../../images/hero-bgimage/optimisized-jpg/hero__desktop.jpg");
   }
 }
 
@@ -491,7 +491,7 @@ textarea {
   width: 24px;
   height: 24px;
   margin-left: 10px;
-  background-image: url("../../imges/icon send.svg");
+  background-image: url("../../images/icon send.svg");
 }
 
 .send-button {
