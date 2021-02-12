@@ -6,7 +6,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url("/images/hero-bgimage/optimisized-jpg/hero__mob.jpg");
+    url("../../images/hero-bgimage/optimisized-jpg/hero__mob.jpg");
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 118px;
@@ -24,7 +24,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url("/images/hero-bgimage/optimisized-jpg/hero__tablet.jpg");
+    url("../../images/hero-bgimage/optimisized-jpg/hero__tablet.jpg");
   }
 
   @media screen and (min-width: 1200px) {
@@ -35,7 +35,7 @@
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url("/images/hero-bgimage/optimisized-jpg/hero__desktop.jpg");
+    url("../../images/hero-bgimage/optimisized-jpg/hero__desktop.jpg");
   }
 }
 
