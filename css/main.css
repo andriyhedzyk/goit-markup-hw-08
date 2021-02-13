@@ -1133,6 +1133,12 @@ textarea {
   margin-top: 60px;
 }
 
+@media screen and (min-width: 1200px) {
+  .footer-social.subscribe {
+    margin-top: 0;
+  }
+}
+
 .footer {
   background-color: #2f303a;
   padding-top: 60px;
